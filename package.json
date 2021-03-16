@@ -1,0 +1,22 @@
+{
+  "name": "meme-api-example",
+  "version": "1.0.0",
+  "description": "Example usage of Rasesh2005's Meme-api ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshua-noakes1/meme-api-example.git"
+  },
+  "author": "joshua-noakes1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshua-noakes1/meme-api-example/issues"
+  },
+  "homepage": "https://github.com/joshua-noakes1/meme-api-example#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}

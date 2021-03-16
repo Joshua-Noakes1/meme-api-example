@@ -1,5 +1,6 @@
 # meme-api-example
- 
+Example usage of Rasesh2005's Meme-api    
+
 After the file has been imported you'll need to use async to get the response other wise you'll just be left with `Promise { <pending> }`.
 
 ## Example
